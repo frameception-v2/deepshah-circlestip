@@ -52,7 +52,7 @@
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.5.2",
     "input-otp": "^1.4.2",
-    "lucide-react": "^0.469.0",
+    "lucide-react": "^0.294.0",
     "mipd": "^0.0.7",
     "next": "15.2.4",
     "next-auth": "^4.24.11",
